@@ -5,8 +5,8 @@ This the answer for nervos's project in GitCoin.
 
 CKB NODE:
 
-![](/task0/ckbnode.png)
+![](/task0/ckbnode.jpg)
 
 CKB INDEX:
 
-![](/task0/ckbindex.png)
+![](/task0/ckbindex.jpg)
